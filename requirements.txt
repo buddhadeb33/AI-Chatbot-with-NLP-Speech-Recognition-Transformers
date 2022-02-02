@@ -1,0 +1,4 @@
+gTTS
+transformers
+tensorflow
+SpeechRecognition
