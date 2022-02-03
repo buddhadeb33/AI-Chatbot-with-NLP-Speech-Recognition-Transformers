@@ -1,4 +1,5 @@
-gTTS
-transformers
-tensorflow
-SpeechRecognition
+gTTS==2.2.3
+transformers==4.12.3
+tensorflow==2.6.2
+SpeechRecognition==3.8.1
+PyAudio==0.2.11
